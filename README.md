@@ -1,4 +1,4 @@
-# AcxiomCRM — MERN Stack CRM
+# AcxiomCRM 
 
 Role-based CRM (MongoDB · Express · React · Node.js) built to the *AcxiomCRM Complete Project Assignment* specification.
 
